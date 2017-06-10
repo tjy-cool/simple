@@ -6,7 +6,7 @@ Simple is a static blog generator with a single static page. You can write you b
 
 [Simple](http://tjy-cool.github.io/simple)
 
-[Blog demo](http://isnowfy.github.io/)
+[Blog demo](http://tjy-cool.github.io/)
 
 [Lightweight markdown editor](http://tjy-cool.github.io/simple/editor.html)
 
